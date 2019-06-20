@@ -63,6 +63,11 @@ func network(weight1:Double,weight2: Double, weight3:Double, weight4: Double, we
     return errorTotal
 }
 
+func chainRule(){
+    
+    
+}
+
 func main(){
     
     
